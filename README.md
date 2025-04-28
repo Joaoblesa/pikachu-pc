@@ -1,7 +1,9 @@
 # pikachu-pc
+![](./logo.img/Captura%20de%20Tela%202025-04-28%20%C3%A0s%2016.57.26.png)
+
 
 ## DESCRICAO
-Projeto coca cola usando HTML E CSS
+Projeto Pikachu usando HTML E CSS
 
 ## Tecnologias 
 *HTML
